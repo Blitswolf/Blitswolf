@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=30&duration=3000&pause=1000&color=00FF41&vCenter=true&width=650&lines=Hello,+I+am+Blitswolf+!!;Learning+languages+and+building+tools;Projects+driven+by+curiosity)](https://git.io/typing-svg)
 
 <!--
-**Blitswolf/Blitswolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
