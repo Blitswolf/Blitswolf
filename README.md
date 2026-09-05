@@ -30,3 +30,4 @@
 | [BlueDucky](https://github.com/Blitswolf/BlueDucky) | Fork of the CVE-2023-45866 Bluetooth HID injection tool — reliability fixes, runtime adapter picker, safer BT lifecycle | Active |
 | &nbsp; | &nbsp; | &nbsp; |
 | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; |
