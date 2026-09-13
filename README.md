@@ -29,6 +29,6 @@
 | Project | Description | Status |
 |---|---|---|
 | [BlueDucky](https://github.com/Blitswolf/BlueDucky) | Fork of the CVE-2023-45866 Bluetooth HID injection tool — reliability fixes, runtime adapter picker, safer BT lifecycle | Active |
-| [Android-Devolopment-Koltin](https://github.com/Blitswolf/Android-Devolopment-Koltin) | Codecademy's Kotlin course hosted in Android Studio | In progress |
+| [Android-Devolopment-Koltin](https://github.com/Blitswolf/Android-Devolopment-Koltin) | Codecademy's Kotlin course hosted in Android Studio | In Progress |
 | C++ | &nbsp; | &nbsp; |
 | Relational Databases | &nbsp; | &nbsp; |
