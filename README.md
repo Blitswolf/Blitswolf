@@ -32,4 +32,4 @@
 | [BlueDucky](https://github.com/Blitswolf/BlueDucky) | Fork of the CVE-2023-45866 Bluetooth HID injection tool — reliability fixes, runtime adapter picker, safer BT lifecycle | Active |
 | [Android-Devolopment-Koltin](https://github.com/Blitswolf/Android-Devolopment-Koltin) | Codecademy's Kotlin course hosted in Android Studio | In Progress |
 | C++ | &nbsp; | In Progress |
-| Relational Databases | &nbsp; | Planned |
+| Relational Databases | Planned in DataGrip | Planned |
