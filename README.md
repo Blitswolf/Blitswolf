@@ -16,6 +16,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logoColor=00FF41)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF41)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF41)
 ![CLion](https://img.shields.io/badge/CLion-0D1117?style=flat-square&logo=clion&logoColor=00FF41)
